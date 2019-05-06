@@ -1,0 +1,52 @@
+{
+  "name": "oekakijs",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@firebase/firestore": "^1.2.1",
+    "firebase": "^5.10.1",
+    "konva": "^3.2.4",
+    "node-sass": "^4.11.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-konva": "^16.8.6",
+    "react-redux": "^5.0.0",
+    "react-router-dom": "^4.2.2",
+    "react-router-redux": "^5.0.0-alpha.9",
+    "react-scripts": "2.1.8",
+    "redux": "^4.0.1",
+    "typescript": "^3.4.5",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@types/react": "^16.8.14",
+    "@typescript-eslint/eslint-plugin": "^1.7.0",
+    "@typescript-eslint/parser": "^1.7.0",
+    "@types/jest": "^24.0.11",
+    "@types/node": "^11.13.4",
+    "@types/react-dom": "^16.8.4",
+    "@types/react-redux": "^7.0.8",
+    "@types/react-router": "^4.4.5",
+    "@types/react-router-dom": "^4.3.2",
+    "@types/react-router-redux": "^5.0.18",
+    "eslint-config-prettier": "^4.2.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.17.0",
+    "redux-devtools": "^3.5.0"
+  }
+}
